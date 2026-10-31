@@ -1,0 +1,7 @@
+{
+  "name": "MultiAI Developer Dashboard",
+  "description": "One API. 34 Free LLM Providers. 635 Model Endpoints. The ultimate unified multi-model platform for developers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
